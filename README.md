@@ -1,7 +1,6 @@
-```
-# Project Name
+##Hospital Mngmt
 
-Welcome to your new project! Here you will find all information about it's setup and usage!
+```
 
 ## Setup Instructions:
 
