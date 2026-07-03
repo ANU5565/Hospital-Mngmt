@@ -21,7 +21,7 @@ npm init -y
 ### Step 2: Install Dependencies
 
 Install Node.js and npm if you haven't already. Then, run:
-```bash
+```bash 
 npm install vite react@latest
 ```
 The latest React version will be automatically installed.
