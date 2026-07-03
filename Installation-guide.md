@@ -5,7 +5,7 @@ Welcome to your frontend development environment! This guide will help you set u
 
 ### Prerequisites:
 
-Before proceeding, ensure you have Node.js installed on your system.
+Before proceeding, ensure you have Node.js installed on your system. 
 ```bash
 nvm --version && node -v && npm -v
 ```
