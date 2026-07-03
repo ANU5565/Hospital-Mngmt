@@ -1,7 +1,6 @@
-```
-
+`
 ##Hospital Mngmt
-
+`
 ```
 
 ## Setup Instructions:
