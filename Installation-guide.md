@@ -68,7 +68,8 @@ npx serve -s dist --open
 
 #### Explanation:
 
-- **FE-001**: This placeholder represents the frontend dependencies task ID. Replace it with the actual task ID.
+- **FE-001**: This placeholder represents the frontend dependencies task ID. Replace it with the actual task ID
+
 
 ### Conclusion
 
