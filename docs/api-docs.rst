@@ -4,7 +4,7 @@ This is the full API documentation of the FastAPI backend.
 
 .. toctree::
    :maxdepth: 3
-   
+    
    /v1/users/create-user
    /v1/users/get-users-list
    /v1/auth/login
